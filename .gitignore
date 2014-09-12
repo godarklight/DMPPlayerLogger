@@ -1,0 +1,8 @@
+*.orig
+*.exe
+*.dll
+*.userprefs
+DMPPlayerLogger/bin/*
+DMPPlayerLogger/obj/*
+*.suo
+*.csproj.user
